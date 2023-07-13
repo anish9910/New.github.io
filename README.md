@@ -1,2 +1,7 @@
-# New.github.io
-it is new website
+<Html>
+  <Head>
+    <Title>New websites
+    <body>Hello world</body>
+      
+  </Head>
+</Html>
